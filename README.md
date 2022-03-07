@@ -1,6 +1,5 @@
 # google-dialer-magisk
 Google Dialer for Magisk
-Version: 1.0 initial release
 ------------------
 Module info: This module includes the framework so you don't need to flash any other framework module.
 -----------------
@@ -14,3 +13,8 @@ The Google dialer is updatable to the PlayStore.
 
 Flash in Magisk and reboot! ENJOY!!!!!!! 😀😀😁😁
 
+• Google Dialer version: version 75.0.430325283 (Updatable through Play Store)
+
+• Framework Version: 0.0.20220307
+
+• Module Version: Initial Release
