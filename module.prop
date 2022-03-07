@@ -1,0 +1,9 @@
+id=googleDialer
+name=Google Dialer Magisk
+version=v1.0 initial
+versionCode=1
+author=@rei_ryota (Telegram)
+description=Google Dialer for Android 12 and up. This module has built in framework so you do not have to flash different dialer framework.
+
+#Edit module info
+#Use proper credits if you want to include this in your script etc.
