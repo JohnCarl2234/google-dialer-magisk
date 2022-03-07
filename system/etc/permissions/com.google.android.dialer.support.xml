@@ -1,0 +1,12 @@
+<!-- Config created by John Carl please if you want to copy or modify this code please use proper credits-->
+<permissions>
+    <!-- Shared library required on the device to get Google Dialer updates from
+         Play Store. This will be deprecated once Google Dialer play store
+         updates stop supporting pre-O devices. -->
+    <library name="com.google.android.dialer.support"
+      file="/system/framework/com.google.android.dialer.support.jar" />
+
+    <!-- Starting from Android O and above, this system feature is required for
+         getting Google Dialer play store updates. -->
+    <feature name="com.google.android.apps.dialer.SUPPORTED" />
+</permissions>
