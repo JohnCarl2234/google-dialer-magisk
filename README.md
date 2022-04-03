@@ -1,5 +1,4 @@
 # google-dialer-magisk
-Google Dialer for Magisk
 ------------------
 Module info: This module includes the framework so you don't need to flash any other framework module.
 -----------------
